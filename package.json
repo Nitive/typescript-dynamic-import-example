@@ -1,0 +1,13 @@
+{
+  "name": "typescript-dynamic-import",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:Nitive/typescript-dynamic-import.git",
+  "author": "Maxim Samoilov <samoilowmaxim@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ts-loader": "^2.1.0",
+    "typescript": "v2.4.0",
+    "webpack": "^3.0.0"
+  }
+}

@@ -7,7 +7,7 @@
       "es2015.promise"
     ],
     "moduleResolution": "node",
-    "module": "es2015",
+    "module": "esnext",
     "noFallthroughCasesInSwitch": true,
     "noImplicitAny": true,
     "noUnusedLocals": true,

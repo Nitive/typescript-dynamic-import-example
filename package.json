@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "main": "index.js",
   "scripts": {
-    "build": "webpack",
+    "build-webpack": "webpack",
+    "build-ts": "tsc -p . --outDir build/",
     "clean": "rm -rf dist/",
     "start": "node dist/app.js"
   },

@@ -1,6 +1,6 @@
 module.exports = {
   entry: {
-    client: './src/index.ts',
+    app: './src/index.ts',
   },
   output: {
     filename: 'dist/[name].js',

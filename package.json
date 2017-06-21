@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "main": "index.js",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "clean": "rm -rf dist/",
+    "start": "node dist/app.js"
   },
   "repository": "git@github.com:Nitive/typescript-dynamic-import.git",
   "author": "Maxim Samoilov <samoilowmaxim@gmail.com>",
